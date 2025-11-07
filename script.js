@@ -49,7 +49,6 @@ let AUDIO_FAIL = new Audio ('mp3/wrong.mp3');
 
 
 
-
 function init() {
     document.getElementById('all-quiestions').innerHTML = questions.length;
     showQuestions();
