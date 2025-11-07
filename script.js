@@ -45,7 +45,7 @@ let rightQuestions = 0;
 let currentQuestion = 0;
 let AUDIO_SUCCESS = new Audio ('mp3/succes.mp3');
 let AUDIO_FAIL = new Audio ('mp3/wrong.mp3');
-
+let = 0
 
 
 
